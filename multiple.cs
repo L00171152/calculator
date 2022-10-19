@@ -1,1 +1,4 @@
-Adding logic for multiple.cs file here
+public multiply(int a, int b)
+{
+int c = a * b;
+}
